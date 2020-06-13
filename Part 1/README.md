@@ -25,5 +25,4 @@ Silvestri" in the context of our module.
 ## Program Compilation
 A makefile is included. Run the command "./make" in the directory of the code. The command "./makeclean" cleans the folder from the 
 Object files that have been created by "./make" command. In order to compile the program run:
-* "./lsh –d <input file> –q <query file> –k <int> -L <int> -ο <output file> -stats [optional]
- –function {DFT, DTW} –hash {classic, probabilistic}"
+* "./lsh –d <input file> –q <query file> –k <int> -L <int> -ο <output file> -stats [optional] –function {DFT, DTW} –hash {classic, probabilistic}"
