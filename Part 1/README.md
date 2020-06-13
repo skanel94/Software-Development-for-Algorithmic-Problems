@@ -19,5 +19,5 @@ applying exhaustive search.
 The results are exported into a file that the user defines also at the begging of the program.
 
 
-- The code comprises an implementation of the paper "Locality-Sensitive Hashing of Curves” των A. Driemel and F.
+The code comprises an implementation of the paper "Locality-Sensitive Hashing of Curves” των A. Driemel and F.
 Silvestri" in the context of our module.
