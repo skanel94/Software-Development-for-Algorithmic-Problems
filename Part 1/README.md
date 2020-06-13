@@ -28,6 +28,6 @@ Object files that have been created by "./make" command. In order to compile the
 ./lsh –d <input file> –q <query file> –k <int> -L <int>
       -ο <output file> -stats [optional] –function {DFT, DTW}
       –hash {classic, probabilistic}
-  
+~  
   
   
