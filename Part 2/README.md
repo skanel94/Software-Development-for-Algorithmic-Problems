@@ -14,3 +14,8 @@ There are 3 groups of functions in order to implement the clustering behaviour.
 The clustering procedure is terminated when the cluster-centers either converged (stop moving) or their translation was lower than
 a given threshold. After the procedure is finished, the shilhoutte both of all elements and  the elements of each cluster is calculated.
 The results are exported into a file which is defined by the user at he beggining of the program.
+
+## Program Compilation
+A makefile is included. Run the command "./make" in the directory of the code. The command "./makeclean" cleans the folder from the 
+Object files that have been created by "./make" command. In order to compile the program run:
+"./cluster –i <input file> –c <configuration file> -o <output file> -d <metric>"
