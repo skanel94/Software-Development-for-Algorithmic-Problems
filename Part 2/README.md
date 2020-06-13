@@ -18,4 +18,4 @@ The results are exported into a file which is defined by the user at he begginin
 ## Program Compilation
 A makefile is included. Run the command "./make" in the directory of the code. The command "./makeclean" cleans the folder from the 
 Object files that have been created by "./make" command. In order to compile the program run:
-"./cluster –i <input file> –c <configuration file> -o <output file> -d <metric>"
+* ./cluster –i {input file} –c {configuration file} -o {output file} -d {metric}
